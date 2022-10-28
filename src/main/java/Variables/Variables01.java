@@ -93,6 +93,7 @@ public class Variables01 {
         Non-Primitive lerin hepsi memoryde ayni buyuklukte yer kullanirlar.
 
         Her class non-primitive data tipidir.
+        Betul
       */
 
     public static void main(String[] args) {
